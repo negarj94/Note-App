@@ -42,7 +42,7 @@ body {
   top: 0;
   right: 0;
   border-radius: 100px 0 0 0;
-  background: linear-gradient(180deg, #ffA500, #E5654D);
+  background: linear-gradient(180deg,  #0a472e, #414b4a);
   display: flex;
   flex-direction: column;
   transition: all 0.3s ease-out;
